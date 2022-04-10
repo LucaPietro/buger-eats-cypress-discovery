@@ -1,0 +1,16 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luca Pietro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  },
+  "scripts": {
+    "test": "yarn cypress open"
+  }
+}
